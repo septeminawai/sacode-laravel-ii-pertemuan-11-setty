@@ -1,0 +1,10 @@
+body{
+    background-image : url(https://img.freepik.com/free-photo/pathway-middle-green-leafed-trees-with-sun-shining-through-branches_181624-4539.jpg?t=st=1726135968~exp=1726139568~hmac=c2378750f30dea1c6e28bea78659931b3bf0ed3e6c5eb900456a88cf3c292ecb&w=740);
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+}
